@@ -25,7 +25,7 @@ function Herosection(props) {
             <Typed
               strings={[
                 "UI/UX designer ",
-                "Front-End developer",
+                "Front-End Engineer",
                 "Photography lover",
               ]}
               typeSpeed={80}

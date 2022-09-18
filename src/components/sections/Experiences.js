@@ -22,28 +22,28 @@ const educationData = [
     title: "Success Journey",
     years: "2020 - 2022",
     content:
-      "Got paid Internship, then Promoted to Job and then promoted to FullStack developer.",
+      "Got paid Internship, then Promoted to Job and then promoted to FullStack Engineer.",
   },
 ];
 
 const experienceData = [
   {
     id: 1,
-    title: "Frontend Developer",
+    title: "Frontend Engineer",
     years: "2018 - Present",
     content:
       "Expert in Pixel Perfect Design. I ensure Responsive design for Mobile, Tab & Desktop",
   },
   {
     id: 2,
-    title: "Backend Developer",
+    title: "Backend Engineer",
     years: "2018 - Present",
     content:
       "Professional to manage Server and Database. I ensure Security to the Application",
   },
   {
     id: 3,
-    title: "MERN Stack Developer",
+    title: "MERN Stack Engineer",
     years: "2019 - Present",
     content:
       "Highly Expertise in MERN Stack. I ensure  Standard and Quality Product",

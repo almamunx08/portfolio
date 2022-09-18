@@ -26,7 +26,7 @@ const sliderData = [
     userName: "David",
     subtitle: "CEO of angelsterritory",
     review:
-      "He is awesome MERN stack developer. He made a awesome trading application for me. Mamun is real hero 🏅🏅",
+      "He is awesome MERN stack Engineer. He made a awesome trading application for me. Mamun is real hero 🏅🏅",
   },
 ];
 

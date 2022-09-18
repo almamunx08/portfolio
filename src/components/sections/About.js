@@ -8,7 +8,7 @@ const aboutContent = {
   name: "Bolby",
   avatarImage: "/images/avatar-2.svg",
   content:
-    "I am a professional Frontend Web developer and MERN Stack developer. After 4 years of experience with a company and some teams, I think I am perfect for providing awesome frontend service. I am highly experienced in working with React.",
+    "I am a professional Frontend Web Engineer and MERN Stack Engineer. After 4 years of experience with a company and some teams, I think I am perfect for providing awesome frontend service. I am highly experienced in working with React.",
 };
 
 const progressData = [
