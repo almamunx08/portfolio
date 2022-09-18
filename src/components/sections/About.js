@@ -78,8 +78,8 @@ function About() {
                 <div className="col-md-6">
                   <p>{aboutContent.content}</p>
                   <div className="mt-3">
-                    <a href="https://www.upwork.com/freelancers/~011219692ea643aa2f" className="btn btn-default">
-                      View CV
+                    <a href="https://www.fiverr.com/users/almamunx08" className="btn btn-default">
+                      Hire Me
                     </a>
                   </div>
                   <div

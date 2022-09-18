@@ -76,7 +76,7 @@ function Herosection(props) {
             <a
               className="btn btn-default"
               target="_blank"
-              href="https://www.upwork.com/freelancers/~011219692ea643aa2f"
+              href="https://www.fiverr.com/users/almamunx08"
             >
               Hire me
             </a>
